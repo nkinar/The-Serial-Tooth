@@ -6,7 +6,7 @@
 
  A Bluetooth LE module (such as the BLE121) can be set up as a virtual serial port.
  This simple Python program will communicate with the Bluetooth LE module using a
- USB dongle such as the BLED112 and Bluegiga's BGAPI.
+ USB dongle based on the BLED112 and Bluegiga's BGAPI.
 
 ![Photo](serial-tooth.png)
 

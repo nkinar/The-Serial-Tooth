@@ -8,7 +8,7 @@
  This simple Python program will communicate with the Bluetooth LE module using a
  USB dongle based on the BLED112 and Bluegiga's BGAPI.
 
-![Photo](serial-tooth.png)
+![Photo](serial-tooth.jpg)
 
 ## Hardware Dependencies
 
